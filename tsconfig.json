@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"removeComments": false,
+		"lib": ["es2018", "dom"],
+		"outFile": "index.js"
+	},
+	"include": [
+		"*"
+	]
+}
